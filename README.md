@@ -4,7 +4,7 @@
 
 This is the repository of '[Dual-Task Mutual Learning for Semi-Supervised Medical Image Segmentation](https://arxiv.org/abs/2103.04708)'. 
 
-The code will be publicly available upon acceptance.
+The code and trained models will be publicly available soon.
 
     @inproceedings{zhang2021dual,
          title={Dual-Task Mutual Learning for Semi-Supervised Medical Image Segmentation},
