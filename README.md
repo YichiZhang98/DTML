@@ -2,7 +2,7 @@
 
 ### Introduction
 
-This is the repository of '[Dual-Task Mutual Learning for Semi-Supervised Medical Image Segmentation](https://arxiv.org/pdf/2103.04708v2.pdf)'(PRCV 2021). 
+This is the repository of '[Dual-Task Mutual Learning for Semi-Supervised Medical Image Segmentation](https://arxiv.org/pdf/2103.04708v2.pdf)' (PRCV 2021) 
 
 
 
@@ -36,4 +36,4 @@ python test_LA.py
          title={Dual-Task Mutual Learning for Semi-Supervised Medical Image Segmentation},
          author={Zhang, Yichi and Zhang, Jicong},
          journal={arXiv preprint arXiv:2103.04708},
-         year = {2021}}
+         year = {2021} }
