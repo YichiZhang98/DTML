@@ -31,9 +31,11 @@ python test_LA.py
 * This code is adapted from [UA-MT](https://github.com/yulequan/UA-MT), [SegWithDistMap](https://github.com/JunMa11/SegWithDistMap) and [DTC](https://github.com/HiLab-git/DTC). We thank all the authors for their contribution. 
 * If our work is useful for your research, please consider citing:
 
+```
 @article{zhang2021dual,
   title={Dual-Task Mutual Learning for Semi-Supervised Medical Image Segmentation},
   author={Zhang, Yichi and Zhang, Jicong},
   journal={arXiv preprint arXiv:2103.04708},
   year={2021}
 }
+```
