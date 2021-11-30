@@ -32,10 +32,11 @@ python test_LA.py
 * If our work is useful for your research, please consider citing:
 
 ```
-@article{zhang2021dual,
+@inproceedings{zhang2021dual,
   title={Dual-Task Mutual Learning for Semi-Supervised Medical Image Segmentation},
   author={Zhang, Yichi and Zhang, Jicong},
-  journal={arXiv preprint arXiv:2103.04708},
+  booktitle={Pattern Recognition and Computer Vision},
+  pages={548--559},
   year={2021}
 }
 ```
